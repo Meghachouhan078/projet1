@@ -1,5 +1,6 @@
+package extraQuestion;
+
 import java.io.FileWriter;
-import java.io.IO;
 import java.io.IOException;
 
 public class WriteOperations {
